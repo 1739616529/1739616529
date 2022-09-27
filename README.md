@@ -14,7 +14,7 @@
   
   Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js |
+I'm familiar with windows software | MacOS software | web app | android app | ios app 
 
 My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
 
