@@ -12,11 +12,11 @@
 
   <br />
   
-  Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile.
 
 I'm familiar with windows software | MacOS software | web app | android app | ios app 
 
-I have developing sites using React, Nextjs, Laravel, WordPress, and much more.
+I have developing sites using React, Nextjs, and much more.
 
 Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
 
