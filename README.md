@@ -1,7 +1,7 @@
 <p align="center">
     
 </p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1739616529&show_icons=true&theme=transparent)
  ![](./profile-3d-contrib/profile-night-view.svg)
 <!-- 
 <p align="center">
