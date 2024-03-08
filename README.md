@@ -1,8 +1,7 @@
 <p align="center">
     
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1739616529&show_icons=true&theme=transparent)
- ![](./profile-3d-contrib/profile-night-view.svg)
+
 <!-- 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mern-dev-full&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
@@ -63,7 +62,7 @@ I had already built so many Websites with the mentioned skill.
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1739616529)](https://github.com/anuraghazra/github-readme-stats)
 <p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
 <img align="right" src="https://img.shields.io/github/followers/Fullstack-WEB-Blockchain-Developer?label=Follow&style=social" />
