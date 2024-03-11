@@ -1,5 +1,5 @@
 
-<iframe src="https://nsv.vercel.app" ></iframe>
+
 # Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile.
@@ -60,7 +60,7 @@ I had already built so many Websites with the mentioned skill.
     <img src="https://github-readme-streak-stats.herokuapp.com/?&user=1739616529" />
 </div>
 <div>
-    <img align="center" src="./media/Dino_non-birthday_version.gif" />
+    <img src="./media/Dino_non-birthday_version.gif" />
 </div>
 
 <div>
