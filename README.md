@@ -72,15 +72,15 @@ I had already built so many Websites with the mentioned skill.
     <img src="https://github-readme-streak-stats.herokuapp.com/?&user=1739616529" />
 </div>
 <div>
-    <img class="img-center" src="./media/Dino_non-birthday_version.gif" />
+    <img align="center" class="img-center" src="./media/Dino_non-birthday_version.gif" />
 </div>
 
 <div>
     <br />
-    <img class="img-center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1739616529&layout=compact&include_all_commits=true" width="500px" /><br/>
+    <img align="center" class="img-center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1739616529&layout=compact&include_all_commits=true" width="500px" /><br/>
 </div>
 
 <div>
     <br />
-    <img style="margin: 0 auto; display: block" src="https://github-readme-stats.vercel.app/api/wakatime?username=1739616529"  />
+    <img align="center" style="margin: 0 auto; display: block" src="https://github-readme-stats.vercel.app/api/wakatime?username=1739616529"  />
 </div>
