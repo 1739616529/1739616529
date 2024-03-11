@@ -20,7 +20,7 @@ I'm familiar with windows software | MacOS software | web app | android app | io
 
 I have developing sites using React, Nextjs, and much more.
 
-Especially I have rich experience with the latest Javascript frameworks such as Node/Express, React, and Vue.
+Especially I have rich experience with the latest Javascript frameworks such as Node/Midway, React, Vue, Svelte and Solid.
 
 I had already built so many Websites with the mentioned skill.
 
